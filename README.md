@@ -7,9 +7,9 @@
 </p>  
 <h3 align="center">Currently learning and uploading some projects.</h3>
 
-- :family: Cecílias's Father
+- :family: Cecília's Father
 - :fire: Learning **UI, JavaScript, HTML, CSS, SQL, Node.JS**
-- :desktop_computer: Working as UI Desginer at Geomais Geotecnologia Ltda
+- :desktop_computer: Working as UI Designer at Geomais Geotecnologia Ltda
 - :small_red_triangle: Lucky number <strong>313</strong>
 
 <a href="https://www.instagram.com/prynssmaia">
